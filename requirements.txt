@@ -1,0 +1,8 @@
+streamlit==1.40.1
+
+requests==2.32.3
+# Bibliotecas para modelos de lenguaje
+groq==0.4.1
+# Opcionales según el modelo que se use
+# mistralai==0.0.10
+# ollama==0.1.5
