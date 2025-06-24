@@ -1,0 +1,6 @@
+.streamlit/
+users.db
+*.pyc
+__pycache__/
+.env
+*.log
